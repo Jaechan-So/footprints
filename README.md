@@ -5,8 +5,8 @@ Footprints for resolving issues.
 ## Computer Systems
 ### WSL2
 * WSL2 is based on Hyper-V, so this disable CPU VT-x.
-* [Accelerated KVM guests on WSL2](https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/)
 
+* [Accelerated KVM guests on WSL2](https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/)
 
 ## Programming Language
 ### Rust
