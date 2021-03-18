@@ -2,11 +2,16 @@
 Footprints for resolving issues.
 ***
 
-## Computer Systems
+## Development
 ### WSL2
 * WSL2 is based on Hyper-V, so this disables CPU VT-x.
 
 * [Accelerated KVM guests on WSL2](https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/)
+
+### VMWare + Ubuntu
+* [Install Docker on Ubuntu](https://keepdev.tistory.com/43)
+
+* [Sharing Folder](https://kinanadel.blogspot.com/2018/05/vmware.html)
 
 ## Programming Language
 ### Rust
