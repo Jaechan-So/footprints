@@ -3,6 +3,13 @@ Footprints for resolving issues.
 ***
 
 ## Development
+### Initial startup (Linux)
+* zsh, oh-my-zsh
+
+* Essential components (build-essential, ...)
+
+* Rust
+
 ### WSL2
 * WSL2 is based on Hyper-V, so this cannot be coexisted with CPU VT-x apps.
   * WSL2 + VM (X: VM uses VT-x)
