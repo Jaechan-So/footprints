@@ -4,7 +4,8 @@ Footprints for resolving issues.
 
 ## Development
 ### WSL2
-* WSL2 is based on Hyper-V, so this disables CPU VT-x.
+* WSL2 is based on Hyper-V, so this cannot be coexisted with CPU VT-x apps.
+  * WSL2 + VM (X: VM uses VT-x)
 
 * [Accelerated KVM guests on WSL2](https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/)
 
