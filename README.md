@@ -17,9 +17,9 @@ Footprints for resolving issues.
 * [Accelerated KVM guests on WSL2](https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/)
 
 ### VMWare + Ubuntu
-* [Install Docker on Ubuntu](https://keepdev.tistory.com/43)
+* [Install Docker on Ubuntu [KOR]](https://keepdev.tistory.com/43)
 
-* [Sharing Folder](https://kinanadel.blogspot.com/2018/05/vmware.html)
+* [Sharing Folder [KOR]](https://kinanadel.blogspot.com/2018/05/vmware.html)
 
 ## Programming Language
 ### Rust
