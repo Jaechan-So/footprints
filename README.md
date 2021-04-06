@@ -1,6 +1,5 @@
 # Footprints
-Footprints for resolving issues.
-***
+Footprints.
 
 ## Development
 ### General
