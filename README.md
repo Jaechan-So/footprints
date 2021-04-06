@@ -3,6 +3,9 @@ Footprints for resolving issues.
 ***
 
 ## Development
+### General
+* [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
+
 ### Initial setup (Linux)
 * zsh, oh-my-zsh
 
