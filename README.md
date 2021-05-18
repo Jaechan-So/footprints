@@ -39,7 +39,7 @@
 ### C++
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-* [Name mangling and extern "C"](https://5kyc1ad.tistory.com/343)
+* [Name mangling and extern "C" [KOR]](https://5kyc1ad.tistory.com/343)
 
 ## Operating System Concepts
 ### Linux
