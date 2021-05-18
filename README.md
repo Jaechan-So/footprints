@@ -39,6 +39,8 @@
 ### C++
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
+* [Name mangling and extern "C"](https://5kyc1ad.tistory.com/343)
+
 ## Operating System Concepts
 ### Linux
 * [VFS readahead](https://kernel.googlesource.com/pub/scm/linux/kernel/git/vfs/vfs/+/refs/tags/v2.6.32-rc1/mm/readahead.c): Readahead is a kind of VFS prefetching.
